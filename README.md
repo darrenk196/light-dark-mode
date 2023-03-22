@@ -16,6 +16,10 @@ To get started with this project, simply clone the repository and open the index
 
 Users can switch between light and dark mode by clicking on the toggle switch. The navigation bar allows users to navigate to the different sections of the website.
 
+## View Live Demo
+
+[Live Demo](https://darrenk196.github.io/light-dark-mode/)
+
 ## Credits
 
 The illustrations used in the about section were created by [Undraw](https://undraw.co/).
